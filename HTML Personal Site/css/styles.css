@@ -1,0 +1,231 @@
+/*INTRO SECTION*/
+
+.intro-section {
+  background-color:  #000000;
+}
+.navbar {
+  padding: 20px 20px;
+}
+.navbar-brand {
+  font-family: 'Khand', sans-serif;
+  font-weight: bolder;
+  color : #ECAC5D;
+}
+.nav-item {
+   padding: 15px;
+   color : #fff;
+}
+
+.Hotel-logo {
+float:left;
+width: 10%;
+margin-left: 20%;
+margin-right: 15px;
+}
+
+.intro-heading {
+  font-family: serif;
+  color : #FFD07F;
+  font-size: 60px;
+  margin-top: 90px;
+}
+.intro-heading-2 {
+font-family: serif;
+  color : #FFF8D9;
+}
+.intro-heading-3 {
+  font-family: serif;
+padding-bottom: 150px;
+    color : #FFF8D9;
+}
+.intro-text {
+  padding-left: 40px;
+}
+
+
+/*ABOUT SECTION*/
+
+.about-section {
+  background-color: #fff;
+  margin: 60px;
+}
+.about-heading {
+  color : #53565A;
+  font-family: 'Libre Baskerville', serif;
+  padding-top: 25px;
+  margin: 10px;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.about-paragraph {
+  font-family:, sans-serif;
+  color: #53565A;
+  margin: 10px;
+  padding-top: 10px;
+  font-size: 1rem;
+
+}
+
+.fcontainer {
+display : flex;
+margin : 18px;
+justify-content: space-around;
+padding-top: 50px;
+padding-bottom: 60px;
+}
+
+
+
+
+/* CAROUSEL SECTIONS */
+
+#carousel {
+  background-color: #000000;
+}
+.carousel-paragraph {
+  text-align: center;
+  size : 20px;
+  margin: 50px 150px;
+  line-height: 2.5;
+  color: #fff;
+}
+.carousel-image {
+border-radius: 100%;
+width : 15%;
+display: block;
+  margin: 10px auto;
+
+
+}
+.face-name {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 60px;
+  padding-top: 5px;
+  color: #FFE5B9;
+  font-family: 'Khand', sans-serif;
+
+}
+.carousel-indicators {
+  padding-top: 30px;
+}
+
+
+/* ROOMS SECTION */
+
+#rooms {
+  .color: #fff;
+}
+/*cabana*/
+.c-div {
+  margin: 70px 70px;
+}
+.c-image {
+margin: 10px 50px auto 50px;
+width: 30%;
+float : left;
+
+}
+.c-heading {
+  color : #53565A;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  margin-top: 20px;
+}
+.c-paragraph {
+  color : #53565A;
+  font-family: 'Libre Baskerville', serif;
+  margin-top: 30px;
+  line-height: 2rem;
+}
+/*presidential*/
+.p-div {
+margin: 70px 70px;
+}
+.p-image {
+margin: 10px auto auto 50px;
+width: 25%;
+float: right;
+margin-top: 70px;
+
+}
+.p-heading {
+  color : #53565A;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  padding-top: 130px;
+}
+.p-paragraph {
+  color : #53565A;
+  font-family: 'Libre Baskerville', serif;
+  text-align: right;
+  margin-top: 30px;
+  margin-left: 50px;
+  line-height: 2rem;
+
+}
+/*deluxe*/
+.d-div {
+margin: 70px 70px;
+}
+.d-image {
+  margin:  30px 35px 50px auto;
+  width: 30%;
+  float : left;}
+.d-heading {
+  color : #53565A;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  margin-top: 150px;
+}
+.d-paragraph {
+  color : #53565A;
+  font-family: 'Libre Baskerville', serif;
+  margin-top: 30px;
+  line-height: 2rem;
+  padding-left: 20px;
+}
+/* OFFERS SECTION */
+#offers {
+  background-color: #000000;
+  margin-top: 160px;
+}
+.offer-heading {
+  color: #fff;
+  font-family: 'Libre Baskerville', serif;
+  margin-left: 50px;
+  padding-top: 60px;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+
+.item {
+  padding: 80px;
+}
+
+
+
+/* CONTACT US SECTION */
+.ccontainer {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 80px;
+  margin-bottom: 70px;
+}
+
+.citem {
+
+}
+
+.contact-heading {
+  font-family: 'Libre Baskerville', serif;
+    color : #53565A;
+    padding-bottom: 15px;
+}
+.r {
+  text-align: center;
+}
